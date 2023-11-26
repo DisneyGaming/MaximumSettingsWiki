@@ -1,6 +1,6 @@
 # Grand Theft Auto: V
 ---
-Playable: Yes (With Caveats)
+## Status - <span style="color:green">Working</span>(Caveats)
 
 Grand Theft Auto: V is playable on MaximumSettings and Linux due to how the Anti-Cheat works. GTA:V doesn't load the anti-cheat until you load online. due to unknown reasons online works with the anti-cheat. This doesn't mean it is recommended, some communities consider virtualisation as a way to cheat Anti-Cheat due to what it is. Although there isn't any confirmed cases of being banned there is always the risk of being banned. You have been warned.
 

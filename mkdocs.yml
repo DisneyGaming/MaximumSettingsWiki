@@ -12,6 +12,7 @@ theme:
     - navigation.tracking
     - navigation.top
     - navigation.path
+    - content.tabs.link
 
   palette: 
     # Palette toggle for light mode

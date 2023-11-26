@@ -20,9 +20,3 @@ With bare metal your computer is its own, all the hardware is what it is reporte
 ### Does this impact my gaming performance?
 ---
 Using a virtualised cloud machine does cause performance issues but not in the way you may think. The primary problem with gaming on a Virtualised Gaming Cloud service is Anti-Cheats. Anti-Cheats use different tools and checks to make sure a player isn't exploiting a game to benefit themselves at the cost of other players enjoyment. They can do this by scanning the computer for cheat files to checking windows itself to see if its been tampered with to load cheats. The problem with virtualisation is that as the hardware is virtualised it becomes difficult to verify the legitimacy of the software and hardware. This is why most anti-cheats don't and won't support virtualised computers and some are made to go against virtualised software. This stops certain games from working with MXS and other cloud computing companies.
-
-## Why use Linux and not Windows?
----
-The reason why MaximumSettings moved from Windows to Linux is due to cost-related and virtualisation issues which were caused by using Windows. MaximumSettings does not and will not provide support to users who wish to install Windows on their machines and are expected to be aware of how to install Windows. You may be able to follow this guide [here](advanced/windows.md)
-
-
